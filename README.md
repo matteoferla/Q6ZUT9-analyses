@@ -26,3 +26,7 @@ Given the aim, i.e. ascertain the effect, this simply is an unnecessary complica
 | 904 | 91 | PLAT | R904H      | 2.2±0.2       |
 
 ![AF2-replicates](images/AF2-replicates.png)
+
+
+resi 237+559+749+800+849+852+904
+resi 1076+1068+833+822+835
